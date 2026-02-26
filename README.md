@@ -1,4 +1,4 @@
-![Image Alt Text](https://github.com/srikstar/srikstar/blob/main/wrapper-github.png)
+![Image Alt Text](https://github.com/srikstar/srikstar/blob/main/wrapper.png)
 
 <h3>Hi There</h3>
 
