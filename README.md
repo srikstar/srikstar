@@ -1,10 +1,8 @@
-![Image Alt Text](https://github.com/srikstar/srikstar/blob/main/wrapper.png)
-
 <h3>Hi There</h3>
 
-Building streamlined, user-focused web applications is my passion as a junior frontend developer. Using contemporary web technologies, I like to create interactive and responsive interfaces with a strong emphasis on accessibility, usability, and performance. I like to play football and watch the newest games in addition to coding and designing. To keep improving, I keep track of my learning through technical blogs and side projects.
+I am a curious and growth-oriented professional who enjoys solving problems and continuously learning new technologies. I value discipline, consistency, and collaboration, and I strive to approach challenges with a practical and analytical mindset. In my free time, I enjoy playing football and following the latest matches, which helps me stay active and maintain balance outside of work.
 <br><br>
-I constantly broaden my technical toolkit and problem-solving skills through practical projects, code reviews, debugging, and trying out new tools and frameworks. I am constantly looking for ways to improve and overcome obstacles, and I am driven to advance as a developer and work with groups that prioritize excellence, creativity, and user-centered design.
+I also like documenting what I learn through notes and blogs, as it helps me reflect on experiences and deepen my understanding. I am always looking for opportunities to improve my skills, explore new ideas, and contribute positively to the teams and environments I am part of.
 
 <br>
 
